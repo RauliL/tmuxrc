@@ -1,6 +1,7 @@
-Tmux configuration
-==================
+My tmux configuration
+=====================
 
 Installation instructions:
 ```bash
-wget "https://raw.githubusercontent.com/RauliL/tmuxrc/master/tmux.conf" -O ~/.tmux.conf
+$ curl "https://raw.githubusercontent.com/RauliL/tmuxrc/master/tmux.conf" > ~/.tmux.conf
+```
